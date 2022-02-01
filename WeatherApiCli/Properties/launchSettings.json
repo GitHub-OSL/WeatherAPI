@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherApiCli": {
+      "commandName": "Project",
+      "commandLineArgs": "-apikey 37ab0c7ae23f4c00ad3232249222801"
+    }
+  }
+}
